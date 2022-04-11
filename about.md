@@ -5,14 +5,15 @@ permalink: /about/
 main_nav: true
 ---
 
-![alt text]({{ site.baseurl }}/assets/profile-placeholder.gif "Profile Picture"){:.profile}
+![alt text]({{ site.baseurl }}/assets/myface.png "Profile Picture"){:.profile}
 
-Centrarium is a custom theme for Jekyll, made by [Ben Centra][bencentra] for his own blog. He'd be humbled if you liked it enough to use it as well! Installation and configuration instructions can be found in the [GitHub repository](https://github.com/bencentra/centrarium).
+Thank you for stopping by and checking out my dev blog! My name is Joshua Hansen and I'm a Software Engineer.
+This has been my profession since 2019. I currently work for Target Coporation in back-end infrastructure
+development.
 
-This page is a good place to write about yourself, your project, your product, or whatever it is your site is for. You can replace the image above, or you can get rid of it entirely. 
+I have a lot of passions outside of work as well. I enjoy riding my bike and working on cars. I drive a Mazda 3
+that is a manual transmission and being from the United States that's not a common thing to see! I take my bike
+on local trails and take some single-track as well. Outside of these two hobbies I'm now a new father of
+a baby boy. He is just awesome to be around! I'm enjoying all life has to offer at the moment :D
 
-You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/). And you can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-[centrarium]: https://github.com/bencentra/centrarium
-[bencentra]: http://bencentra.com
-[jekyll]: https://github.com/jekyll/jekyll
+[Portfolio Website](https://www.joshuaha.dev)
